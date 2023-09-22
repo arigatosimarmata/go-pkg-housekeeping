@@ -1,5 +1,5 @@
 HOW TO TEST CREATE SCRIPT main.go
-
+```
 package main
 
 import (
@@ -24,5 +24,6 @@ func main() {
 		fmt.Println(err)
 	}
 }
+```
 
 go run main.go
