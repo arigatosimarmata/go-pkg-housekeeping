@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	gopkghousekeeping "github.com/arigatosimarmata/go-pkg-housekeeping.git"
+	gopkghousekeeping "github.com/arigatosimarmata/go-pkg-housekeeping"
 )
 
 func main() {
